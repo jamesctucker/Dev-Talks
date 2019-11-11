@@ -19,6 +19,6 @@ https://docs.google.com/presentation/d/1Hi_HUnhtbBcv4XXMvnJdOz87ThD9esE5dr9-d_jl
 
 - [Vue Documentation](https://vuejs.org/) - official Vue.js documentation
 - [Vuex](https://vuex.vuejs.org/) - official Vue state management library
-- [Awesome Vue] - curated collection of hundreds of Vue-related resources, components, repositories, etc.
+- [Awesome Vue](https://github.com/vuejs/awesome-vue) - curated collection of hundreds of Vue-related resources, components, repositories, etc.
 - [Frontend Masters Vue Courses](https://frontendmasters.com/learn/vue/) - IMO the best courses on Vue on the web
 - [Fantastic Front-End Toolbox](https://github.com/jamesctucker/Fantastic-Front-End-Toolbox) - a collection of frontend-related resources and tools
